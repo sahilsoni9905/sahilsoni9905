@@ -1,4 +1,4 @@
-[![MasterHead]([https://th.bing.com/th/id/OIP.ltefDnlZsmMK7L6g1xCxGgHaEJ?w=1456&h=816&rs=1&pid=ImgDetMain](https://www.linkedin.com/in/sahil-soni-23a391257/](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263))
+[![MasterHead]([https://th.bing.com/th/id/OIP.ltefDnlZsmMK7L6g1xCxGgHaEJ?w=1456&h=816&rs=1&pid=ImgDetMain](https://www.linkedin.com/in/sahil-soni-23a391257/]([https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263))](https://www.timescale.com/blog/content/images/size/w1200/2024/01/Getting-sensor-data-into-timescaledb-via-django--1-.png)
 <h1 align="center">Hi 👋, I'm Sahil Soni</h1>
 <h3 align="center">A passionate Full-Stack Mobile App developer and loves to do Competitive Programming and DSA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
